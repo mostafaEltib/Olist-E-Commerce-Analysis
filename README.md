@@ -4,8 +4,8 @@ This dataset was generously provided by Ecommerce shop called Olist, the largest
 ## Data Schema
 The data is divided in multiple datasets for better understanding and organization. 
 ###### Data link https://drive.google.com/file/d/1Jq_BcK7bW66ej3AqB_l5Aw3k-lxKNWRF/view
-###### Data Proccesing [GitHub Pages](https://drive.google.com/file/d/1Jq_BcK7bW66ej3AqB_l5Aw3k-lxKNWRF/view)
-#### Report link in novypro [GitHub Pages](https://pages.github.com/](https://www.novypro.com/project/olist-e-commerce-analysis-2))
+###### Data Proccesing [Link](https://drive.google.com/file/d/1Jq_BcK7bW66ej3AqB_l5Aw3k-lxKNWRF/view)
+#### Report link in novypro [Link](https://pages.github.com/](https://www.novypro.com/project/olist-e-commerce-analysis-2)
 
 ## The Task 
 #### 1. Ask  10 descriptive analytical questions to be answered via data visualizing on Power BI <br />What Is Total Orders On Weekend&Weekday<br />

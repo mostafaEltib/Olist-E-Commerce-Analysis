@@ -3,9 +3,9 @@
 This dataset was generously provided by Ecommerce shop called Olist, the largest department store in marketplaces. Olist connects small businesses from all over country to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners.  After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 ## Data Schema
 The data is divided in multiple datasets for better understanding and organization. 
-###### Data link https://drive.google.com/file/d/1Jq_BcK7bW66ej3AqB_l5Aw3k-lxKNWRF/view
+
 ###### Data Proccesing [Link](https://drive.google.com/file/d/1Jq_BcK7bW66ej3AqB_l5Aw3k-lxKNWRF/view)
-#### Report link in novypro [Link](https://pages.github.com/](https://www.novypro.com/project/olist-e-commerce-analysis-2)
+###### Report link in novypro  [Link]([https://drive.google.com/file/d/1Jq_BcK7bW66ej3AqB_l5Aw3k-lxKNWRF/view](https://www.novypro.com/project/olist-e-commerce-analysis-2))
 
 ## The Task 
 #### 1. Ask  10 descriptive analytical questions to be answered via data visualizing on Power BI <br />What Is Total Orders On Weekend&Weekday<br />

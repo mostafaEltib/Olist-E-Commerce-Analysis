@@ -15,6 +15,11 @@ What Is Total Profit BY City?<br />
 What Is AVG Shipping Cost BY City?<br />
 What Is Faster & Slower Delivery In Days BY City?<br />
 What Is Delivered Days Taken for Audio Category?<br />
-####2. Make a customer segmentation
-####3. Product category sales predication for upcoming 6 months  .
-####4. Geolocation analysis:  By Using Geolocation dataset  plot maps and find distances between sellers and customers.
+#### 2. Make a customer segmentation
+#### 3. Product category sales predication for upcoming 6 months  .
+#### 4. Geolocation analysis:  By Using Geolocation dataset  plot maps and find distances between sellers and customers.
+![Dashboard](https://github.com/mostafaEltib/Olist-E-Commerce-Analysis/assets/108897691/3450697e-704d-406f-845b-b5330d73b944)
+![Customer Segment](https://github.com/mostafaEltib/Olist-E-Commerce-Analysis/assets/108897691/29137c5c-2203-4ac1-ab15-d10ee2bc7887)
+![Product category sales predication for upcoming 6 months](https://github.com/mostafaEltib/Olist-E-Commerce-Analysis/assets/108897691/2f2e5883-cfc0-4c98-987b-64511067d1f6)
+
+
